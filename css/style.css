@@ -3,8 +3,18 @@ body {
   height: 100vw;
 }
 
+table,
+tr,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
 table {
   margin: 0 auto;
-  border: 2px solid black;
   width: 60%;
+}
+
+tr:nth-child(1) {
+  width: 10%;
 }
