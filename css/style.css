@@ -12,9 +12,11 @@ td {
 
 table {
   margin: 0 auto;
-  width: 60%;
+  width: 100%;
+  max-width: 1200px;
 }
 
-tr:nth-child(1) {
+td:nth-child(1) {
   width: 10%;
+  text-align: center;
 }
