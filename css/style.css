@@ -46,3 +46,23 @@ img {
   width: 70px;
   margin: 10px;
 }
+
+#s {
+  background-color: rgb(255, 127, 127);
+}
+
+#a {
+  background-color: rgb(255, 191, 127);
+}
+
+#b {
+  background-color: rgb(255, 223, 127);
+}
+
+#c {
+  background-color: #ffff7f;
+}
+
+#d {
+  background-color: rgb(191, 255, 127);
+}
