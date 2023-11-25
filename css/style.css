@@ -39,15 +39,15 @@ td:nth-child(2) {
 
 #languages {
   border: 1px solid black;
-  max-width: 1000px;
+  max-width: 950px;
   width: 100vw;
-  height: 90px;
+  min-height: 92px;
 }
 
 img {
   width: 70px;
   height: 70px;
-  margin: 10px;
+  margin: 10px 10px 5px 10px;
 }
 
 #s {
